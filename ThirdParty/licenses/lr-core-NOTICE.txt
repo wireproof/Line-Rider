@@ -1,0 +1,1 @@
+lr-core by David Lu, https://github.com/conundrumer/lr-core, revision ce48ebed967d24ff4582995b31342440901f913d. The upstream package.json declares MIT; the upstream repository did not contain a separate license text at the recorded revision.
